@@ -1,0 +1,25 @@
+{
+  "name": "vs-checkbox",
+  "version": "1.0.1",
+  "description": "This is Checkbox Component by Vue.js 2x",
+  "main": "Checkbox.vue",
+  "homepage": "https://github.com/gkandemi/vs-checkbox#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gkandemi/vs-checkbox.git"
+  },
+  "keywords": [
+    "vuejs",
+    "checkbox",
+    "input",
+    "vue.js",
+    "form control",
+    "form checkbox",
+    "vue checkbox"
+  ],
+  "author": "gkandemir",
+  "license": "ISC"
+}
